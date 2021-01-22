@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f42cfc9-f05a-4ec8-8910-02dfbcb14c9f" name="Default Changelist" comment="新增学习笔记">
-      <change afterPath="$PROJECT_DIR$/03_文本元素/03Node.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_文本元素/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_超链接和路径/idnex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_分组元素/分隔符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_分组元素/固定格式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_分组元素/大段落.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_分组元素/无序列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_分组元素/有序列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_分组元素/段落.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_分组元素/盒子.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_分组元素/说明列表.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_基本格式/02Node.md" beforeDir="false" afterPath="$PROJECT_DIR$/02_基本格式/02Node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML5概述/01Node.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_基本格式/02Node.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_文本元素/03Node.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +65,7 @@
       <updated>1608867896932</updated>
       <workItem from="1608867898071" duration="49000" />
       <workItem from="1611284799749" duration="1640000" />
-      <workItem from="1611286484461" duration="3021000" />
+      <workItem from="1611286484461" duration="5377000" />
     </task>
     <task id="LOCAL-00001" summary="初始化目录">
       <created>1608867931761</created>
@@ -70,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611298451565</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新增学习笔记">
+      <created>1611299014686</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611299014686</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
