@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f42cfc9-f05a-4ec8-8910-02dfbcb14c9f" name="Default Changelist" comment="初始化目录">
-      <change afterPath="$PROJECT_DIR$/01_HTML5概述/01Node.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_基本格式/02Node.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_基本格式/index.html" afterDir="false" />
+    <list default="true" id="0f42cfc9-f05a-4ec8-8910-02dfbcb14c9f" name="Default Changelist" comment="新增学习笔记">
+      <change afterPath="$PROJECT_DIR$/03_文本元素/03Node.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_基本格式/02Node.md" beforeDir="false" afterPath="$PROJECT_DIR$/02_基本格式/02Node.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <updated>1608867896932</updated>
       <workItem from="1608867898071" duration="49000" />
       <workItem from="1611284799749" duration="1640000" />
-      <workItem from="1611286484461" duration="2392000" />
+      <workItem from="1611286484461" duration="3021000" />
     </task>
     <task id="LOCAL-00001" summary="初始化目录">
       <created>1608867931761</created>
@@ -63,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608867931761</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增学习笔记">
+      <created>1611298451565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611298451565</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化目录" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化目录" />
+    <MESSAGE value="新增学习笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增学习笔记" />
   </component>
 </project>
